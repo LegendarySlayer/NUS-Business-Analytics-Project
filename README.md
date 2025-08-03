@@ -61,15 +61,18 @@ As a member of the project team, my primary contributions included:
 ---
 
 📁 Project Structure
-Cross-Sell-Prediction-NUS/
-├── assets/
-│   ├── dashboard-sample.png
-│   └── orange-flow.png
-├── training_data.csv
-├── testing_data.csv
-├── AIMLBAproject.ows      # Orange workflow file
-├── PowerBI_Report.pbix    # PowerBI visualization file
-└── README.md
+```plaintext
+📦 Cross-Sell-Prediction-NUS/
+
+┣ 📂 assets/
+┃ ┣ 📜 dashboard-sample.png
+┃ ┗ 📜 orange-flow.png
+┣ 📜 training_data.csv
+┣ 📜 testing_data.csv
+┣ 📜 AIMLBAproject.ows # Orange workflow file
+┣ 📜 PowerBI_Report.pbix # PowerBI visualization file
+┗ 📜 README.md
+```
 
 ---
 
